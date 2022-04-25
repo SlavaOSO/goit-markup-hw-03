@@ -56,7 +56,7 @@ img {
 
 /* header */
 .head {
-  border: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 .logo {
   font-family: var(--secondary-font);
